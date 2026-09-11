@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ## About Me<br><br>🔐 Cybersecurity professional with experience in **security auditing, compliance, incident response, and cloud security**.<br><br>🎓 MSc Cybersecurity graduate from the **University of Aberdeen**, with a BTech in Computer Science specialising in Cybersecurity.<br><br>💻 I enjoy building and exploring projects around **cybersecurity, Zero Trust, cloud security, blockchain, privacy-preserving technologies, and security automation**.<br><br>🛡️ Experienced with **PCI DSS, ISO 27001, GDPR, HIPAA, Azure, AWS, Python, and C++**, with hands-on experience across 25+ security and compliance projects.<br><br>🚀 Outside of technical work, I'm passionate about **cybersecurity education and community building**. I founded a 100+ member cybersecurity community and currently lead the University of Aberdeen Cybersecurity Society.<br><br>📚 Currently exploring deeper areas of **security research, cryptography, and privacy-enhancing technologies**.<br>
 
 
@@ -12,6 +12,5 @@
 ![](https://streak-stats.demolab.com/?user=roshanzee123&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=roshanzee123&theme=aura&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
